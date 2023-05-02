@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin:  0;
+    box-sizing: border-box;
+}
+
+body {
+background:black;
+font-family: cursive;
+
+}
+
+header {
+    background: pink ;
+    width: 100%;
+    clear: both;
+    content: ;
+    display: table;
+}
+
+.menu{
+    
+    width: 1260px;
+    margin: 0 auto;
+}
+
+img {
+    width: 140px;
+    height: 90px;
+    float: left;
+    padding: 15px;
+
+}
+
+nav {
+    float: right;
+}
+nav ul li {
+    list-style: none;
+    margin-left: 125px;
+    float: left;
+    padding: 38px 0;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: rgb(62, 59, 36);
+}
